@@ -1,2 +1,2 @@
 # react-example
-Example React project from https://reactjs.org/docs/add-react-to-a-website.html
+Example React project from https://reactjs.org/docs/create-a-new-react-app.html
